@@ -1,7 +1,7 @@
 # Wabtech AI Study Tool 📚🤖
 
 An AI-powered study assistant that helps students learn faster and smarter.  
-Built for the **Vibe Coding Hackathon 3.0** 🚀.
+Built for the STEMS students 
 
 ---
 
